@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0",
+  "components": [
+    {
+      "label": "我是文本",
+      "type": "text",
+      "top": 100,
+      "left": 50,
+      "width": 48,
+      "height": 48,
+      "focus": false
+    },
+    {
+      "label": "我是按钮",
+      "type": "button",
+      "top": 150,
+      "left": 50,
+      "width": 64,
+      "height": 64,
+      "focus": false
+    },
+    {
+      "label": "我是文本框",
+      "type": "input",
+      "top": 200,
+      "left": 50,
+      "width": 194,
+      "height": 194,
+      "focus": false
+    },
+    {
+      "label": "我是文本框",
+      "type": "input",
+      "top": 147,
+      "left": 244,
+      "alignCenter": false,
+      "width": 194,
+      "height": 194,
+      "focus": false
+    },
+    {
+      "label": "我是按钮",
+      "type": "button",
+      "top": 36,
+      "left": 380,
+      "alignCenter": false,
+      "width": 64,
+      "height": 64,
+      "focus": false
+    },
+    {
+      "label": "我是文本",
+      "type": "text",
+      "top": 88,
+      "left": 595,
+      "alignCenter": false,
+      "width": 48,
+      "height": 48,
+      "focus": false
+    },
+    {
+      "label": "我是文本框",
+      "type": "input",
+      "top": 241,
+      "left": 402,
+      "alignCenter": false,
+      "width": 194,
+      "height": 194,
+      "focus": false
+    },
+    {
+      "label": "我是按钮",
+      "type": "button",
+      "top": 327,
+      "left": 231,
+      "alignCenter": false,
+      "width": 64,
+      "height": 64,
+      "focus": false
+    },
+    {
+      "label": "我是文本",
+      "type": "text",
+      "top": 62,
+      "left": 250,
+      "alignCenter": false,
+      "width": 48,
+      "height": 48,
+      "focus": false
+    }
+  ]
+}
